@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Picaqiu的快乐星球
+title: Picaqiu的知识星球
 email: 673396844@qq.com
 author: Picaqiu
 copyright: Copyright © 1970-2099
